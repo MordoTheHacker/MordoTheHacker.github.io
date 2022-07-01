@@ -1,0 +1,97 @@
+.header {
+  background-color: #000000;
+  position: sticky;
+}
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  #tele {
+    vertical-align: middle;
+  }
+  #logo{
+      vertical-align: middle;
+  }
+  #cloud{
+    vertical-align: middle;
+  }
+  #insta{
+    vertical-align: middle;
+  }
+  #contact{
+    vertical-align: middle;
+    margin-left: 63%;
+
+  }
+  #logo1{
+      margin-left: 85%;
+  }
+  #demo{
+    text-align: center;
+    padding-top:5%;
+  }
+  #banner{
+      background-color: black;
+      width: 100%;
+      padding-top: 0.1%;
+      text-align: center;
+  }
+  #opening{
+    width: 100%; 
+    height: 110%;
+    padding-bottom:-3%;
+  }
+  .playBtn{
+      background-color: transparent;
+      outline: 0;
+      border: none;
+      cursor: pointer;
+      width: 30%;
+      height: 30%;
+
+      
+  }
+#cover{
+    padding-top:3%;
+    position:relative;
+}
+.mcontainer{
+    position:relative;
+}
+
+#button1{
+    position: absolute;
+    top: 17%;
+    left: 11.5%;
+
+}
+#button2{
+    position: absolute;
+    top: 17%;
+    left: 46%;
+}
+#button3{
+    position: absolute;
+    top: 17%;
+    left: 80.5%;
+}
+#button4{
+    position: absolute;
+    top: 61.5%;
+    left: 11.5%;
+}
+#button5{
+    position: absolute;
+    top: 61.5%;
+    left: 46%;
+}
+#button6{
+    position: absolute;
+    top: 61.5%;
+    left: 80.5%;
+}
+#botter{
+    height: 50%;
+    width: 100%;
+    background-color: #000000;
+}
