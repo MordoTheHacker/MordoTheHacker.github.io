@@ -95,3 +95,6 @@
     width: 100%;
     background-color: #000000;
 }
+body {
+  margin: 0;
+}
